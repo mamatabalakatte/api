@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+recommendations.db
+test_api_recommendations.db
+load_test_report.json
+.DS_Store
+.env
+venv/
+env/
